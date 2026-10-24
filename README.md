@@ -1,21 +1,24 @@
-# Yanming Shen — Personal Academic Website
+# Yanming Shen — Academic Homepage
 
-This is a static GitHub Pages website.
+A static academic website designed for GitHub Pages.
 
 ## Publish
 
-1. Create a GitHub repository named `<your-github-username>.github.io`.
-2. Upload all files in this folder to the repository root.
-3. Go to **Settings → Pages**.
-4. Select **Deploy from a branch**.
-5. Select `main` and `/ (root)`.
-6. Open `https://<your-github-username>.github.io`.
+Create a repository named:
 
-## Customize
+`YOUR_GITHUB_USERNAME.github.io`
 
-- `index.html`: name, biography, publications, projects, teaching, links.
-- `assets/style.css`: colors, typography, spacing and responsive layout.
-- Replace the `YS` circle with a real portrait if desired.
-- Replace all `#` links and `YOUR_EMAIL@example.com`.
+Upload the files in this folder to the repository root, then go to:
 
-GitHub Pages will publish static HTML/CSS/JS files from the repository.
+Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save
+
+The homepage is `index.html`.
+
+## Before publishing
+
+Recommended final edits:
+- Replace the `YS` placeholder with a professional portrait at `assets/profile.jpg`.
+- Check the email address.
+- Add links to paper PDFs, project pages, code repositories, and CV.
+- Synchronize the publication list with Google Scholar.
+- Replace or remove the teaching entries if they do not match the current teaching portfolio.
